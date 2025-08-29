@@ -1,0 +1,17 @@
+	.card{
+		
+		width:500px; 
+		height: fit-content; 
+		background-color: aliceblue; 
+		border-radius: 25px; 
+		border: solid 2px blue; 
+		margin: 20px; 
+		padding: 20px;
+
+	}
+
+	span {
+		
+		color: blue;
+
+	}
